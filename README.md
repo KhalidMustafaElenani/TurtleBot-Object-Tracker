@@ -3,7 +3,7 @@ This script utilizes ROS (Robot Operating System) to autonomously detect and mov
 
 ## TurtleBot
 <p align="center">
-  <img src="TurtleBot2.png" alt="TurtleBot 2" />
+  <img src="TurtleBot2.jpg" alt="TurtleBot 2" />
 </p>
 
 ## Key Features:

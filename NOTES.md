@@ -19,7 +19,7 @@
 3. Launch Robot Nodes:
   `roslaunch jupiterobot_bringup jupiterobot_bringup.launch`
 4. Run the Robot Control Script:
-   `python Main.py`
+   `python Robot_Control_Script.py`
 
 ## Notes
 * Ensure ROS and required packages are installed.

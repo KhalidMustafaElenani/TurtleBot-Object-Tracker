@@ -9,18 +9,6 @@
 - sensor_msgs
 - geometry_msgs
 
-## Setup Instructions
-
-1. **Start ROS Core:**
-   `roscore`
-2. Launch Vision Nodes:
-   `roslaunch rchomeedu_vision multi_astra.launch`
-   `roslaunch robot_vision_openvino yolo_ros.launch`
-3. Launch Robot Nodes:
-  `roslaunch jupiterobot_bringup jupiterobot_bringup.launch`
-4. Run the Robot Control Script:
-   `python Robot_Control_Script.py`
-
 ## Notes
 * Ensure ROS and required packages are installed.
 * Verify the correct camera topics are being used.

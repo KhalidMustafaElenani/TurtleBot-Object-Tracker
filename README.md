@@ -14,17 +14,6 @@ The main script processes images from a camera to detect an object and adjusts t
   1. Clone the repository: `git clone https://github.com/yourusername/robot-control-system.git`
   2. Navigate to the project directory: `cd robot-control-system`
      
-## Usage Examples
-  1. Ensure ROS is running:
-         `roscore`
-  3. Launch vision nodes:
-         `roslaunch rchomeedu_vision multi_astra.launch`
-         `roslaunch robot_vision_openvino yolo_ros.launch`
-  4. Launch robot nodes:
-         `roslaunch jupiterobot_bringup jupiterobot_bringup.launch`
-  5. Run the robot control script:
-         `python Robot_Control_Script.py`
- 
 ## Code Overview
 **`Robot_Control_Script.py`**: 
   - Uses OpenCV to process images and detect objects.

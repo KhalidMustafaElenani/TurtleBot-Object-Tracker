@@ -17,8 +17,8 @@ The main script processes images from a camera to detect an object and adjusts t
 </p>
 
 ## Installation
-  1. Clone the repository: `git clone https://github.com/yourusername/robot-control-system.git`
-  2. Navigate to the project directory: `cd robot-control-system`
+  1. Clone the repository: `git clone https://github.com/KhalidMustafaElenani/TurtleBot-Object-Tracker.git`
+  2. Navigate to the project directory: `cd TurtleBot-Object-Tracker`
 
 ## Usage Examples
   1. Ensure ROS is running:

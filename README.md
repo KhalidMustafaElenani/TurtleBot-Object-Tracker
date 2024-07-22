@@ -4,8 +4,8 @@
 ![TurtleBot](https://img.shields.io/badge/TurtleBot-2-%20teal?style=plastic)
 ![ROS Version](https://img.shields.io/badge/ROS-2-%20teal?style=plastic)
 ![Python Version](https://img.shields.io/badge/Python-2.7-%20teal?style=plastic)
-![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Open_Issues](https://img.shields.io/badge/Issues%20-%200%20-%20orange?style=plastic)
 
 ## Description
 This repository contains a Python implementation for a robot control system using ROS (Robot Operating System) and OpenCV. The robot is programmed to detect and follow an object using computer vision techniques.

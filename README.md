@@ -30,7 +30,7 @@ The main script processes images from a camera to detect an object and adjusts t
   4. Launch robot nodes:
          `roslaunch jupiterobot_bringup jupiterobot_bringup.launch`
   5. Run the robot control script:
-         `python Robot_Control_Script.py`
+         `python robot_control_script.py`
      
 ## Code Overview
 **`Robot_Control_Script.py`**: 
